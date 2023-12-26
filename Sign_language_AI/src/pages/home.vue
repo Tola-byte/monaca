@@ -319,7 +319,7 @@ export default {
     const translateText = async (textToTranslate) => {
 
       try {
-        const response = await axios?.post("https://translation.googleapis.com/language/translate/v2?key=AIzaSyCy3zbuBiYg5TEm7SdwdzC6M9Xgly7Yu0o", {
+        const response = await axios?.post("https://translation.googleapis.com/language/translate/v2?key=""", {
           q: textToTranslate, // text to translate here, this.textToTranslate
           target: 'ak', // Target language for Akan
 

@@ -1,6 +1,6 @@
-# Japanese Sign Language Interpreter
+# Sign Language Interpreter
 
-Mobile application developed using Vue3, Monaca, Framework 7 and Teachable Machine, which recognises gestures from the Japanese Sign Language and converts them to Japanese text, with the possibility of translating them into English or Spanish.
+Mobile application developed using Vue3, Monaca, Framework 7 and Teachable Machine, which recognises gestures from the Sign Language and converts them to Akan text,.
 
 This app is based on a template found here:
 [framework7-vue3-minimal](https://github.com/monaca-templates/framework7-vue3-minimal)
